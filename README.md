@@ -6,19 +6,6 @@ This project automates the creation of Visual Studio solution (.sln) and project
 
 The main purpose of this project is to quickly set up and test the Dumper7 SDK. The example code included in `Main.cpp` is based on the Unreal Engine console code provided in `UsingTheSDK.md`.
 
-## Directory Structure
-
-project_creator/
-├── main.py
-
-├── file_utils.py
-
-├── project_generator.py
-
-├── vcxproj_templates.py
-
-├── settings.ini
-
 ## Configuration
 
 1. Create or edit the `settings.ini` file in the project directory with the following content:
