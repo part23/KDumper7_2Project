@@ -10,9 +10,13 @@ The main purpose of this project is to quickly set up and test the Dumper7 SDK. 
 
 project_creator/
 ├── main.py
+
 ├── file_utils.py
+
 ├── project_generator.py
+
 ├── vcxproj_templates.py
+
 ├── settings.ini
 
 ## Configuration
